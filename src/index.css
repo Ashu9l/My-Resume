@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Print-specific styles */
+@media print {
+  @page {
+    margin: 0.5in;
+    size: letter portrait;
+  }
+
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .min-h-screen {
+    min-height: 0 !important;
+  }
+
+  .bg-gray-50 {
+    background-color: white !important;
+  }
+
+  .shadow-lg {
+    box-shadow: none !important;
+  }
+
+  .bg-slate-800 {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .page-break {
+    page-break-before: always;
+  }
+}
