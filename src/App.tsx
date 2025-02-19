@@ -23,10 +23,10 @@ function App() {
             <div className="flex items-center gap-1">
               <MapPin size={16} className="print:text-white" /> India
             </div>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-slate-300 transition-colors">
+            <a href="https://github.com/Ashu9l" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-slate-300 transition-colors">
               <Github size={16} className="print:text-white" /> GitHub
             </a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-slate-300 transition-colors">
+            <a href="https://www.linkedin.com/in/ashutosh-kumar-653630246/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-slate-300 transition-colors">
               <Linkedin size={16} className="print:text-white" /> LinkedIn
             </a>
           </div>
@@ -91,7 +91,7 @@ function App() {
                   <div>
                     <div className="flex justify-between items-center mb-2">
                       <h4 className="font-bold text-slate-700">Futuristic Portfolio – Interactive Developer Showcase</h4>
-                      <a href="https://ashu9l.github.io/Futuristic-Portfolio" target="_blank" rel="noopener noreferrer" className="text-blue-600 flex items-center gap-1 text-sm print:text-slate-600 hover:text-blue-700 transition-colors font-medium">
+                      <a href="https://ashu9l.github.io/Futuristic-Portfolio/" target="_blank" rel="noopener noreferrer" className="text-blue-600 flex items-center gap-1 text-sm print:text-slate-600 hover:text-blue-700 transition-colors font-medium">
                         <ExternalLink size={14} /> View Project
                       </a>
                     </div>
@@ -119,7 +119,7 @@ function App() {
                   <div>
                     <div className="flex justify-between items-center mb-2">
                       <h4 className="font-bold text-slate-700">Sorting Visualizer</h4>
-                      <a href="https://sorting-visualizer.app" target="_blank" rel="noopener noreferrer" className="text-blue-600 flex items-center gap-1 text-sm print:text-slate-600 hover:text-blue-700 transition-colors font-medium">
+                      <a href="https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble" target="_blank" rel="noopener noreferrer" className="text-blue-600 flex items-center gap-1 text-sm print:text-slate-600 hover:text-blue-700 transition-colors font-medium">
                         <ExternalLink size={14} /> View Project
                       </a>
                     </div>
